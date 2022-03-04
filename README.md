@@ -7,3 +7,4 @@ The following gif illustrates all the features included in this project.
   <img src="https://user-images.githubusercontent.com/95065307/156847040-714e7666-ee30-403b-aa18-dcc238bfbf70.gif" alt="animated" />
 </p>
 
+Check out the project [here](https://pages.github.com/).
