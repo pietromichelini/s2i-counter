@@ -1,5 +1,5 @@
 # s2i-counter
-A simple Counter project built with vanilla HTML, CSS &amp; JS.
+A simple project built with vanilla HTML, CSS &amp; JS.
 
 # About The Project
 The following gif illustrates all the features included in this project.
